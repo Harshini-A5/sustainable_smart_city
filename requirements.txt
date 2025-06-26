@@ -1,0 +1,12 @@
+streamlit
+fastapi
+uvicorn
+python-dotenv
+pydantic
+requests
+transformers
+sentence-transformers
+pinecone-client
+scikit-learn
+pandas
+scipy
